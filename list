@@ -873,5 +873,9 @@ http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="vd" tvg-logo="", t1
+#EXTINF:-1 group-title="Vùng đất của thủ lĩnh rồng (phần 1)" tvg-logo="", Vùng đất của thủ lĩnh rồng (phần 1) - Tập 1
 https://vd254.mycdn.me/expires/1615776520577/srcIp/171.233.87.190/srcAg/CHROME_ANDROID/ms/185.226.52.4/type/1/sig/8yI6D-eJ9BY/ct/8/urls/45.136.22.5/clientType/0/id/798676683440/video/
+#EXTINF:-1 group-title="Vùng đất của thủ lĩnh rồng (phần 1)" tvg-logo="", Vùng đất của thủ lĩnh rồng (phần 1) - Tập 2
+https://vd197.mycdn.me/expires/1615781334362/srcIp/171.233.87.190/srcAg/CHROME_ANDROID/ms/45.136.22.5/type/1/sig/0UKS2qLFabs/ct/8/urls/185.226.52.4/clientType/0/id/814053264112/video/
+#EXTINF:-1 group-title="Vùng đất của thủ lĩnh rồng (phần 1)" tvg-logo="", Vùng đất của thủ lĩnh rồng (phần 1) - Tập 3
+https://vd254.mycdn.me/expires/1615781365805/srcIp/171.233.87.190/srcAg/CHROME_ANDROID/ms/185.226.52.4/type/1/sig/en73vcBrdkg/ct/8/urls/185.226.53.5/clientType/0/id/665951078942/video/
