@@ -871,3 +871,6 @@ http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
 #EXTINF:-1 group-title="CAMPUCHIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/one-tv-sports-9-kh.png", ONETV 9 - Sports
 http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
+
+#EXTINF:-1 group-title="CAMPUCHIA" tvg-logo="", 5
+https://drive.google.com/file/d/1MwlZLS8pjYkvCoeX8Uegoxk1JP9ZutNA/view?usp=sharing
