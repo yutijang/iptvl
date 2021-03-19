@@ -872,11 +872,19 @@ http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
 #EXTINF:-1 group-title="CAMPUCHIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/one-tv-sports-9-kh.png", ONETV 9 - Sports
 http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
 
-#EXTINF:-1 group-title="TNGH" tvg-logo="", Tap 14
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="", Tập 14
 https://www.googleapis.com/drive/v3/files/1SprUZi2wzrgGS0l9xsw1guTLjEFpGvP7?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
-#EXTINF:-1 group-title="TNGH" tvg-logo="", Tap 15
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="", Tập 15
 https://www.googleapis.com/drive/v3/files/1RR2F4MzHCrktP_gNoE_i5XXOQH_4yAOZ?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
-#EXTINF:-1 group-title="TNGH" tvg-logo="", Tap 16
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="", Tập 16
 https://www.googleapis.com/drive/v3/files/1nN9BAvhvxxDw1U0zLeDBK37tJZpzXL2c?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
-#EXTINF:-1 group-title="TNGH" tvg-logo="", Tap 17
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="", Tập 17
 https://www.googleapis.com/drive/v3/files/1DpwBbJiLAEFnX7qetN057-twV-rmEoxC?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="", Tập 18
+https://www.googleapis.com/drive/v3/files/1hQb71SWvsn3NDfXZzBZQXItezk3iwfAy?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="", Tập 19
+https://www.googleapis.com/drive/v3/files/1-lJUmPuXSAwk9qMfYldYvAcSVQ4tDgjs?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="", Tập 20
+https://www.googleapis.com/drive/v3/files/1ThA287wIhPzbaa2RY30_F1LVBw03bb5_?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="", Tập 21
+https://www.googleapis.com/drive/v3/files/1PSd3GA8zlflVFw-TSXLIkT-tqfhikfdu?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
