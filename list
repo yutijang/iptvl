@@ -872,6 +872,17 @@ http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
 #EXTINF:-1 group-title="CAMPUCHIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/one-tv-sports-9-kh.png", ONETV 9 - Sports
 http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
 
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 1
+https://www.googleapis.com/drive/v3/files/1D0ewqYw5Rzamckd1tzu80dXxVWii5nYu?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 2
+https://www.googleapis.com/drive/v3/files/13G1wibTB5_7qq-r7aRYD7IOp9XwFXdvx?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 3
+https://www.googleapis.com/drive/v3/files/1I7IRomP988zPY4N_9jxh4BA2t7Qa3xK7?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 4
+https://www.googleapis.com/drive/v3/files/15in5UR5nK7c9w9Et89qKsg9mh-dfZAJp?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 5
+https://www.googleapis.com/drive/v3/files/1pVlg2lk995w70P0towkeyU5s2lWsiw5w?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+
 #EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 24
 https://www.googleapis.com/drive/v3/files/1HfCnc4mAo8oHbidTeY49Kga9lRm-QGti?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
 #EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 25
@@ -884,7 +895,6 @@ https://www.googleapis.com/drive/v3/files/1_RVdLIWGsIOzP9_CtfA4xKcjiL4t11h_?alt=
 https://www.googleapis.com/drive/v3/files/1_j3FVDbpj4peqYl8E0IvYqqq7zY7qA8o?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
 #EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 29
 https://www.googleapis.com/drive/v3/files/1Sm4mAtDfuZGAfOBE2tsrnlc4ODbyj81Z?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
-
 #EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 30
 https://www.googleapis.com/drive/v3/files/1GRTtrQ1mFXmU1GmVmnQcKDzzL37akKHa?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
 #EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 31
@@ -899,3 +909,17 @@ https://www.googleapis.com/drive/v3/files/1YatAgvBK8OwPT-jAMXqr70HROy-8--3e?alt=
 https://www.googleapis.com/drive/v3/files/1smb0Kfbi63Z0yp_wnW1NSqpprRKMS1Fx?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
 #EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 36
 https://www.googleapis.com/drive/v3/files/1c6tlMSqPULJnkiNBRu72AFruY6csc1Xn?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 37
+https://www.googleapis.com/drive/v3/files/17Og7KaPT8fYioeKpYcgbaTIvmMuiV_sE?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 38
+https://www.googleapis.com/drive/v3/files/1CrXPPCfuYEwszOLHIYlEZ-uDfx5sg7O2?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 39
+https://www.googleapis.com/drive/v3/files/1ige-Ru1MQR4vwcJNgN4gQRsWnd6hKdsH?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 40
+https://www.googleapis.com/drive/v3/files/1TvY0l-03ikCAasDeb648_Ihk6Mi7IpoA?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 41
+https://www.googleapis.com/drive/v3/files/1oIMyastdJtg3aR607zJcMEOPyIFjk3G2?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 42
+https://www.googleapis.com/drive/v3/files/1MUPZc79DTvGGxjBHfb-N0GCf_2fjmluB?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
+#EXTINF:-1 group-title="Tiếu Ngạo Giang Hồ 1996" tvg-logo="https://i1.wp.com/dongphimtv.com/wp-content/uploads/2020/10/Tieu-Ngao-Giang-Ho-1996-poster-185x278.jpg", Tập 43
+https://www.googleapis.com/drive/v3/files/16UgJJH8zXXklPBM_ougLzvWwI2l0qZ_8?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
