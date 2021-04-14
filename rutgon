@@ -36,3 +36,6 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="All" tvg-logo="https://i.ibb.co/ZHmSGDH/Warner-TVlogobyvovanloc.png", Warner TV
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="warner_tv_hd" group-title="All" tvg-logo="", The Ritual
+https://www.googleapis.com/drive/v3/files/1y2xPbzZZl-7P_Jv8rD75ZPtN9dIDMqjW/?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
