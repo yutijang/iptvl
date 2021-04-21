@@ -24,8 +24,6 @@ https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
 #EXTINF:-1 tvg-id="fox_family_movies" group-title="All" tvg-logo="https://i.ibb.co/KWVt4SN/Fox-Family-Movieslogobyvovanloc.png", FOX FAMILY MOVIES | 1080P
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
-#EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/tDmtwBN/Fox-Action-Movieslogobyvovanloc.png", FOX ACTION MOVIES
-http://tvku.live:8888/provision/pp/99
 #EXTINF:-1 tvg-id="fox_movies" group-title="All" tvg-logo="https://i.ibb.co/DDhp3Y2/foxmovieslogobyvovanloc.png", FOX Movies | 1080p
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="foxlifehd" group-title="All" tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png", FOX LIFE | 720P
@@ -36,6 +34,3 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="All" tvg-logo="https://i.ibb.co/ZHmSGDH/Warner-TVlogobyvovanloc.png", Warner TV
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="warner_tv_hd" group-title="All" tvg-logo="", The Ritual
-https://www.googleapis.com/drive/v3/files/1y2xPbzZZl-7P_Jv8rD75ZPtN9dIDMqjW/?alt=media&key=AIzaSyCgQGNeDx7U3pysk5C1KGoXrziLI_SIKsE
