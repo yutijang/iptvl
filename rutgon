@@ -22,11 +22,11 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="All" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png", FOX HD | 1080P
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="Fox Family Movies HD-ClipTV"group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/pWH035s/Fox-Family-BEARTV.png",FOX FAMILY HD
+#EXTINF:0 tvg-id="Fox Family Movies HD-ClipTV" group-title="All" tvg-logo="https://i.ibb.co/pWH035s/Fox-Family-BEARTV.png", FOX FAMILY HD
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="fox_movies" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/NsJB6Gv/foxmovies-BEARTV.png",FOX Movies HD
+#EXTINF:0 tvg-id="fox_movies" group-title="All" tvg-logo="https://i.ibb.co/NsJB6Gv/foxmovies-BEARTV.png", FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="FOXlife HD" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/bv0NjZX/Fox-Life-BEARTV.png" ,FOX LIFE HD
+#EXTINF:0 tvg-id="" tvg-name="FOXlife HD" group-title="All" tvg-logo="https://i.ibb.co/bv0NjZX/Fox-Life-BEARTV.png", FOX LIFE HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="national_geographic" group-title="All" tvg-logo="https://i.ibb.co/F8J2zvg/National-Geographic-Channellogobyvovanloc.png", National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
