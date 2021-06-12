@@ -13,7 +13,9 @@ https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="All" tvg-logo="https://i.ibb.co/QC9DNRP/vtv3logobyvovanloc.png", VTV3
 https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
-
+#EXTINF:0 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://i.ibb.co/61MhZPy/VTV6-HD-BEARTV.png", VTV6 HD
+https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 
 #EXTINF:-1 tvg-id="animalhd" group-title="All" tvg-logo="https://i.ibb.co/KDDZzPB/Animal-Planetlogobyvovanloc.png", Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
