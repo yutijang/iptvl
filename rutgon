@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://gg.gg/Iichphatsongiptv" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/1b39pcv/dongthap1tvlogobyvovanloc.png", Đồng Tháp 1
-http://202.43.109.142:1935/THDT/thdttv/chunklist_w359372379.m3u8
+http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
+#http://202.43.109.142:1935/THDT/thdttv/chunklist_w359372379.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="All" tvg-logo="https://i.ibb.co/X5f0WmH/THVL1logobyvovanloc.png", Vĩnh Long 1
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="All" tvg-logo="https://i.ibb.co/8XjWcJT/THVL2logobyvovanloc.png", Vĩnh Long 2
