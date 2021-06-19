@@ -15,9 +15,13 @@ https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="All" tvg-logo="https://i.ibb.co/QC9DNRP/vtv3logobyvovanloc.png", VTV3
 https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="vtv6hd"group-title="VTV" tvg-logo="https://i.ibb.co/61MhZPy/VTV6-HD-BEARTV.png", VTV6 HD
+#EXTINF:0 tvg-id="vtv5hd" group-title="All" tvg-logo="https://i.ibb.co/3FkgpPp/VTV5-HD-BEARTV.png",VTV5 HD
+https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="vtv6hd" group-title="All" tvg-logo="https://i.ibb.co/61MhZPy/VTV6-HD-BEARTV.png", VTV6 HD
 https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+#EXTINF:0 tvg-id="vtv9hd" group-title="All" tvg-logo="https://i.ibb.co/6bFVqfq/VTV9-HD-BEARTV.png",VTV9 HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animalhd" group-title="All" tvg-logo="https://i.ibb.co/KDDZzPB/Animal-Planetlogobyvovanloc.png", Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
@@ -40,46 +44,5 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="All" tvg-logo="https://i.ibb.co/ZHmSGDH/Warner-TVlogobyvovanloc.png", Warner TV
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-6
-https://www.googleapis.com/drive/v3/files/1QlW8wMvsdPjs8CvOz9p4w-RrGs2ckfyt?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-7
-https://www.googleapis.com/drive/v3/files/1T7ez_LIkavV3oe3Fuopvt4YK06LMCmSZ?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-8
-https://www.googleapis.com/drive/v3/files/1Myhuv7-6t_kWpQH0jl2my-fmLbDB6CrX?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-9
-https://www.googleapis.com/drive/v3/files/13CocMeE7ATPT-sBcGq6Si7FRr3x_Jyu7?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-10
-https://www.googleapis.com/drive/v3/files/18mZCQ-kOQYvxM4IYgdaU2g2w_OKH-OPj?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
 
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-11
-https://www.googleapis.com/drive/v3/files/1jLWru-YMPKohJoPggWTEtBQ-h2dtu28e?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-12
-https://www.googleapis.com/drive/v3/files/1h3ZM7bu9dEeJO_6WxKheG8hHygk_12Ff?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-13
-https://www.googleapis.com/drive/v3/files/1ROszDmImFGpcuTY5px7tR8QoqHciNhvu?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-14
-https://www.googleapis.com/drive/v3/files/1uauZNoggxLxnb5NbyXVWxNi-XqDi8uSy?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-15
-https://www.googleapis.com/drive/v3/files/1LnKOZJjScK1SjUbUUkB14mDua5ze69pZ?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-16
-https://www.googleapis.com/drive/v3/files/1YtO0aY7rw0MgiZHfnDmhl_4sf6Nc4Uvi?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-17
-https://www.googleapis.com/drive/v3/files/1IyoYlIJ5L-AdWSx3_suaaFRmBwitL5Io?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-18
-https://www.googleapis.com/drive/v3/files/1gssBqrQLZLD9_p6ic-trtaq1fbp2srZR?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-19
-https://www.googleapis.com/drive/v3/files/1LuRbiQuJg5J1zkVpXEbNSQXlqJiz0anI?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-20
-https://www.googleapis.com/drive/v3/files/1rb-2_o3Mb72ZrWM_9P8hHz8uJ2QyL9J0?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-21
-https://www.googleapis.com/drive/v3/files/1fDl_X2_UweEYVLjk6sNKQ09I3IheNCtE?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-22
-https://www.googleapis.com/drive/v3/files/1z97xdaGNv_SquKtHUkFoBrEyibkcRDBl?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-23
-https://www.googleapis.com/drive/v3/files/1Dv5FaBy1bn2AbNteOTYJTlSrrWOtmdrI?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-24
-https://www.googleapis.com/drive/v3/files/1w7PKWM_FEmRYfPBs8pH55uJJOJxBTedl?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
-#EXTINF:-1 tvg-id="" group-title="BỘ BỘ SÁT CƠ" tvg-logo="https://cdn.xemphimvn2.com/temp/thumb/360_480_247736_1.jpg", T-25
-https://www.googleapis.com/drive/v3/files/1otssFQzemtveN7JujdhWQlqt7jOKKpsQ?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
+#https://www.googleapis.com/drive/v3/files/1QlW8wMvsdPjs8CvOz9p4w-RrGs2ckfyt?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
