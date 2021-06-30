@@ -38,9 +38,9 @@ https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Cn0nnxm/DMAX.jpg" group-title="All", HBO
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=blah&User-Agent=Blah
 https://hbogo-livecdn.fptplay.net/hbogo/hbo_1080p.stream/manifest.mpd
 
 #EXTINF:-1 tvg-id="axnhd" group-title="All" tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png", AXN
