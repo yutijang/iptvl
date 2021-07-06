@@ -64,22 +64,22 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="All" tvg-logo="https://i.ibb.co/ZHmSGDH/Warner-TVlogobyvovanloc.png", Warner TV
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-name="KIX" group-title="All" tvg-logo="https://freight.cargo.site/w/1200/i/b823dc1070dc4a7a5f35c332c9994f889d6af40b3df1f6ee8f3f9cf676afbe31/1200px-KIX_logo.svg.png", KIX
+#EXTINF:0 tvg-id="" tvg-name="KIX" group-title="All" tvg-logo="https://i.ibb.co/4ZYdX8g/kidhdlogobyvovanloc.png", KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="davinci" group-title="All" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" tvg-name="Da Vinci (HD)", Da Vinci Kids
+#EXTINF:-1 tvg-id="davinci" group-title="All" tvg-logo="https://i.ibb.co/6D31ZYJ/Davincikidslogobyvovanloc.png" tvg-name="Da Vinci (HD)", Da Vinci Kids
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="asian_food_channel" group-title="All" tvg-logo="http://htvc.vn/uploads/channel/2019/11/28/2139383-afn-logo-cmyk-f.png", Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="blue_ant_entertainment" group-title="All" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png", Blue Ant Entertainment
+#EXTINF:0 tvg-id="blue_ant_entertainment" group-title="All" tvg-logo="https://i.ibb.co/Dpf6PDv/Blue-ante-ntertainmentlogobyvovanloc.png", Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="blue_ant_extreme" group-title="All" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png", Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="outdoor_channel" group-title="All" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Outdoor_Channel.svg/1200px-Outdoor_Channel.svg.png", Outdoor Channel
+#EXTINF:0 tvg-id="outdoor_channel" group-title="All" tvg-logo="https://i.imgur.com/RJwaiHH.png", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="fashion_tv" group-title="All" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/800px-Fashion_TV_logo.svg.png", Fashion TV
+#EXTINF:0 tvg-id="fashion_tv" group-title="All" tvg-logo="https://i.ibb.co/DLhCJ42/Fashion-TVlogobyvovanloc.png", Fashion TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 
 
