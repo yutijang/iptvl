@@ -86,43 +86,43 @@ https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u
 #https://www.googleapis.com/drive/v3/files/1QlW8wMvsdPjs8CvOz9p4w-RrGs2ckfyt?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
 
 
-#EXTINF:-1 group-title="Paris By Night",PBN-124 Anh Cho Em Mùa Xuân
-http://download2333.mediafire.com/95fvyog1f8eg/u4m3oeggwq1o2bt/PBN-124_Anh.Cho.Em.Mua.Xuan.2018.720p.DD2.0.x264.mkv
-#EXTINF:-1 group-title="Paris By Night",PBN-123 Ảo Ảnh
-http://download2333.mediafire.com/zu4hv27z46bg/re218raga1h7pzw/PBN123.mkv
-#EXTINF:-1 group-title="Paris By Night",PBN-121 Song Ca Nhạc Vàng
-http://download1011.mediafire.com/em4hg72rnivg/dhdqjmfpbo8wa7w/PBN21_720p.mkv
-#EXTINF:-1 group-title="Paris By Night",PBN-117 Vườn Hoa Âm Nhạc HD 1080p
-http://download1121.mediafire.com/iplbluo97shg/fj56quupoqr5d4b/TN_117.mkv
-#EXTINF:-1 group-title="Paris By Night",PBN-116 Nụ Cười Đầu Năm HD 1080p
-http://download1121.mediafire.com/xdyb52yjnaeg/o1uuyuir30w6qcg/Paris.By.Night.116.Nu.Cuoi.Dau.Xuan.Bluray.1080i.x264.AC3.mkv
-#EXTINF:-1 group-title="Paris By Night",PBN-115 Nét Đẹp Á Đông HD 720p
-http://download2281.mediafire.com/t9wsahvgxsig/f922xg2xuh7y13w/blackbox-TN115.mkv
-#EXTINF:-1 group-title="Paris By Night",PBN-114 Tôi Là Người Việt Nam DVD-1 
-http://download1522.mediafire.com/g39uzub1qbfg/24bca4rhxf197q3/TN114-DVD1.mkv
-#EXTINF:-1 group-title="Paris By Night",PBN-114 Tôi Là Người Việt Nam DVD-2 
-http://download1475.mediafire.com/hfnwgm1kxtjg/tfooui5jcu33mi7/TN114-DVD2.mkv
-#EXTINF:-1 group-title="Paris By Night",PBN-114 Tôi Là Người Việt Nam DVD-3 
-http://download1011.mediafire.com/1m0ox1endkgg/mhbs2g1vsc3r22g/TN114-DVD3.mkv
-#EXTINF:-1 group-title="Paris By Night",PBN-113 Mừng Tuổi Mẹ HD 720p (P1)
-http://download1145.mediafire.com/ar90s7n7nirg/m1435e1p3d338jd/TN113-Part1.mkv
-#EXTINF:-1 group-title="Paris By Night",PBN-113 Mừng Tuổi Mẹ HD 720p (P2)
-http://download848.mediafire.com/123i0r1rcpmg/4ukpavn9e37vvc5/TN113-Part2.mkv
-#EXTINF:-1 group-title="Paris By Night",PBN-113 Mừng Tuổi Mẹ HD 720p (P3)
-http://download1654.mediafire.com/5tc224hmgudg/68ddqmdl2qy7mce/TN113-Part3.mkv
-#EXTINF:-1 group-title="Paris By Night",PBN-113 Mừng Tuổi Mẹ HD 720p (P4)
-http://download2264.mediafire.com/p10gfdanfn9g/78ggue2uoeggpjf/TN113-Part4.mkv
+##EXTINF:-1 group-title="Paris By Night",PBN-124 Anh Cho Em Mùa Xuân
+#http://download2333.mediafire.com/95fvyog1f8eg/u4m3oeggwq1o2bt/PBN-124_Anh.Cho.Em.Mua.Xuan.2018.720p.DD2.0.x264.mkv
+##EXTINF:-1 group-title="Paris By Night",PBN-123 Ảo Ảnh
+#http://download2333.mediafire.com/zu4hv27z46bg/re218raga1h7pzw/PBN123.mkv
+##EXTINF:-1 group-title="Paris By Night",PBN-121 Song Ca Nhạc Vàng
+#http://download1011.mediafire.com/em4hg72rnivg/dhdqjmfpbo8wa7w/PBN21_720p.mkv
+##EXTINF:-1 group-title="Paris By Night",PBN-117 Vườn Hoa Âm Nhạc HD 1080p
+#http://download1121.mediafire.com/iplbluo97shg/fj56quupoqr5d4b/TN_117.mkv
+##EXTINF:-1 group-title="Paris By Night",PBN-116 Nụ Cười Đầu Năm HD 1080p
+#http://download1121.mediafire.com/xdyb52yjnaeg/o1uuyuir30w6qcg/Paris.By.Night.116.Nu.Cuoi.Dau.Xuan.Bluray.1080i.x264.AC3.mkv
+##EXTINF:-1 group-title="Paris By Night",PBN-115 Nét Đẹp Á Đông HD 720p
+#http://download2281.mediafire.com/t9wsahvgxsig/f922xg2xuh7y13w/blackbox-TN115.mkv
+##EXTINF:-1 group-title="Paris By Night",PBN-114 Tôi Là Người Việt Nam DVD-1 
+#http://download1522.mediafire.com/g39uzub1qbfg/24bca4rhxf197q3/TN114-DVD1.mkv
+##EXTINF:-1 group-title="Paris By Night",PBN-114 Tôi Là Người Việt Nam DVD-2 
+#http://download1475.mediafire.com/hfnwgm1kxtjg/tfooui5jcu33mi7/TN114-DVD2.mkv
+##EXTINF:-1 group-title="Paris By Night",PBN-114 Tôi Là Người Việt Nam DVD-3 
+#http://download1011.mediafire.com/1m0ox1endkgg/mhbs2g1vsc3r22g/TN114-DVD3.mkv
+##EXTINF:-1 group-title="Paris By Night",PBN-113 Mừng Tuổi Mẹ HD 720p (P1)
+#http://download1145.mediafire.com/ar90s7n7nirg/m1435e1p3d338jd/TN113-Part1.mkv
+##EXTINF:-1 group-title="Paris By Night",PBN-113 Mừng Tuổi Mẹ HD 720p (P2)
+#http://download848.mediafire.com/123i0r1rcpmg/4ukpavn9e37vvc5/TN113-Part2.mkv
+##EXTINF:-1 group-title="Paris By Night",PBN-113 Mừng Tuổi Mẹ HD 720p (P3)
+#http://download1654.mediafire.com/5tc224hmgudg/68ddqmdl2qy7mce/TN113-Part3.mkv
+##EXTINF:-1 group-title="Paris By Night",PBN-113 Mừng Tuổi Mẹ HD 720p (P4)
+#http://download2264.mediafire.com/p10gfdanfn9g/78ggue2uoeggpjf/TN113-Part4.mkv
 
-#EXTINF:-1 group-title="ASIA",Asia-80 Làn Gió Mới
-http://download800.mediafire.com/pfm2nnsoerjg/3vaq73mkigl32dz/A80_1080p.mkv
-#EXTINF:-1 group-title="ASIA",Asia-77 Dòng Nhạc Anh Bằng Lam Phương 1080p
-http://download734.mediafire.com/3ag4tgldwvzg/8fvc8pv43jwe46x/Asia77.Dong.Nhac.Anh.Bang.Va.Lam.Phuong.Bluray.1080p.mkv
-#EXTINF:-1 group-title="ASIA",Asia-77 Dòng Nhạc Anh Bằng Lam Phương DVD1
-http://download1133.mediafire.com/k21f9zj2ibug/lidvdkdtke46vd2/Asia-77.D1.mkv
-#EXTINF:-1 group-title="ASIA",Asia-77 Dòng Nhạc Anh Bằng Lam Phương DVD2
-http://download1965.mediafire.com/k5aenqg2liig/2qhhxy4cj9b8gar/Asia-77.D2.mkv
-#EXTINF:-1 group-title="ASIA",Asia Golden-4 Khúc Nhạc Đồng Quê
-http://www.mediafire.com/download/a0329bgacesl5pg/blackbox247-asia-golden4.mp4
+##EXTINF:-1 group-title="ASIA",Asia-80 Làn Gió Mới
+#http://download800.mediafire.com/pfm2nnsoerjg/3vaq73mkigl32dz/A80_1080p.mkv
+##EXTINF:-1 group-title="ASIA",Asia-77 Dòng Nhạc Anh Bằng Lam Phương 1080p
+#http://download734.mediafire.com/3ag4tgldwvzg/8fvc8pv43jwe46x/Asia77.Dong.Nhac.Anh.Bang.Va.Lam.Phuong.Bluray.1080p.mkv
+##EXTINF:-1 group-title="ASIA",Asia-77 Dòng Nhạc Anh Bằng Lam Phương DVD1
+#http://download1133.mediafire.com/k21f9zj2ibug/lidvdkdtke46vd2/Asia-77.D1.mkv
+##EXTINF:-1 group-title="ASIA",Asia-77 Dòng Nhạc Anh Bằng Lam Phương DVD2
+#http://download1965.mediafire.com/k5aenqg2liig/2qhhxy4cj9b8gar/Asia-77.D2.mkv
+##EXTINF:-1 group-title="ASIA",Asia Golden-4 Khúc Nhạc Đồng Quê
+#http://www.mediafire.com/download/a0329bgacesl5pg/blackbox247-asia-golden4.mp4
 
 
 #EXTINF:-1 group-title="Phim bộ" ,Tây Du Ký 2010 Tập 1
