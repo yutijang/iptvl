@@ -13,6 +13,8 @@ https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" group-title="All" tvg-logo="http://htvc.vn/uploads/editor/images/LOGO%20KENH%20PHIM-01(1).png", HTVC Phim
 https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="All" tvg-logo="https://i.ibb.co/TP063Mw/HTV3-BEARTV.png", HTV3
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="All" tvg-logo="https://i.ibb.co/QKtTwrJ/htv7logobyvovanloc.png", HTV7
 https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="All" tvg-logo="https://i.ibb.co/NLh55qm/htv9logobyvovanloc.png", HTV9
