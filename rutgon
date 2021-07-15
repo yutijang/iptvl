@@ -30,8 +30,6 @@ https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="All" tvg-logo="https://i.ibb.co/6bFVqfq/VTV9-HD-BEARTV.png",VTV9
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="btv9_an_vien" group-title="All" tvg-logo="https://i.ibb.co/Jytpppv/BTV9logobyvovanloc.webp", BTV9 - An Viên TV HD
-https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="animalhd" group-title="All" tvg-logo="https://i.ibb.co/KDDZzPB/Animal-Planetlogobyvovanloc.png", Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
