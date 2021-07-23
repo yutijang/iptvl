@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://gg.gg/Iichphatsongiptv" tvg-shift=0 m3uautoload=1
 #EXTINF:-1 group-title="All" tvg-logo="https://i.imgur.com/KWzVIse.jpg", Đồng Tháp 1
 #https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist.m3u8
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGTHAP-SD-ABR/HTV-ABR/DONGTHAP-SD-720p/chunks.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGTHAP-SD-ABR/HTV-ABR/DONGTHAP-SD-720p/playlist.m3u8
 #http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
-http://202.43.109.142:1935/THDT/thdttv/chunklist_w359372379.m3u8
+#http://202.43.109.142:1935/THDT/thdttv/chunklist_w359372379.m3u8
 
 #EXTINF:0 tvg-id="antvhd" group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.imgur.com/w9Ht0kv.png", ANTV
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
