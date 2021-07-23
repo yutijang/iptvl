@@ -16,9 +16,9 @@ https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="All" tvg-logo="https://i.imgur.com/tnFqEPz.jpg", Vĩnh Long 2
 https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="All" tvg-logo="https://i.imgur.com/w7nxAjc.jpg",Vĩnh Long 3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="All" tvg-logo="https://i.imgur.com/F79Qtoj.png",Vĩnh Long 3
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="All" tvg-logo="https://i.imgur.com/iuYepMv.jpg",Vĩnh Long 4
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="All" tvg-logo="https://i.imgur.com/BNLcSQn.png",Vĩnh Long 4
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="All" tvg-logo="https://i.imgur.com/yM0uznX.png", HTVC Phim
@@ -72,7 +72,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/Ul4OITK.png" group-title="All", Discovery Channel
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="discovery_asia" group-title="All" tvg-logo="https://i.imgur.com/bjPs3A5.png", Discovery Asia HD
+#EXTINF:-1 tvg-id="discovery_asia" group-title="All" tvg-logo="https://i.imgur.com/cKvFy2I.png", Discovery Asia HD
 http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="All" tvg-logo="https://i.imgur.com/Pugn7Ka.png", ANIMAX
@@ -122,7 +122,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="blue_ant_entertainment" group-title="All" tvg-logo="hhttps://i.imgur.com/GFCKRHJ.png", Blue Ant Entertainment
+#EXTINF:0 tvg-id="blue_ant_entertainment" group-title="All" tvg-logo="https://i.imgur.com/GFCKRHJ.png", Blue Ant Entertainment
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
