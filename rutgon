@@ -21,7 +21,7 @@ https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="All" tvg-logo="https://i.imgur.com/BNLcSQn.png",Vĩnh Long 4
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="htvc_phim_hd" group-title="All" tvg-logo="https://i.imgur.com/yM0uznX.png", HTVC Phim
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="All" tvg-logo="https://i.imgur.com/yM0uznX.png", HTVC Phim
 #https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/hda2/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
@@ -109,7 +109,7 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 
-#EXTINF:0 tvg-id="kix_hd" tvg-name="KIX" group-title="All" tvg-logo="https://i.imgur.com/vXqahXq.png", KIX
+#EXTINF:0 tvg-id="kix" tvg-name="KIX" group-title="All" tvg-logo="https://i.imgur.com/vXqahXq.png", KIX
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
@@ -122,19 +122,19 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="blue_ant_entertainment" group-title="All" tvg-logo="https://i.imgur.com/GFCKRHJ.png", Blue Ant Entertainment
+#EXTINF:0 tvg-id="blueantent" group-title="All" tvg-logo="https://i.imgur.com/GFCKRHJ.png", Blue Ant Entertainment
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="blue_ant_extreme" group-title="All" tvg-logo="https://i.imgur.com/TwHk73E.png", Blue Ant Extreme
+#EXTINF:0 tvg-id="blueantext" group-title="All" tvg-logo="https://i.imgur.com/TwHk73E.png", Blue Ant Extreme
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda1/blueantext_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="outdoor_channel" group-title="All" tvg-logo="https://i.imgur.com/aSpjUud.png", Outdoor Channel
+#EXTINF:0 tvg-id="outdoorhd" group-title="All" tvg-logo="https://i.imgur.com/aSpjUud.png", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="fashion_tv" group-title="All" tvg-logo="https://i.imgur.com/8EOTM1M.png", FashionTV
+#EXTINF:0 tvg-id="fashionhd" group-title="All" tvg-logo="https://i.imgur.com/8EOTM1M.png", FashionTV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 
 #https://www.googleapis.com/drive/v3/files/1QlW8wMvsdPjs8CvOz9p4w-RrGs2ckfyt?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
