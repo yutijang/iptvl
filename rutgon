@@ -59,7 +59,7 @@ https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 
-#EXTINF:0 tvg-id="vtv9hd" group-title="All" tvg-logo="https://i.imgur.com/KLPtpfC.png",VTV9
+#EXTINF:0 tvg-id="vtv9hd" group-title="All" tvg-logo="https://i.imgur.com/KLPtpfC.png", VTV9
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animalhd" group-title="All" tvg-logo="https://i.imgur.com/Y4C8P6U.png", Animal Planet
@@ -69,10 +69,10 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.imgur.com/pdPzurH.png", Nat Geo WILD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/Ul4OITK.png" group-title="All", Discovery Channel
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/Ul4OITK.png" group-title="All", Discovery
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="discovery_asia" group-title="All" tvg-logo="https://i.imgur.com/cKvFy2I.png", Discovery Asia HD
+#EXTINF:-1 tvg-id="discovery_asia" group-title="All" tvg-logo="https://i.imgur.com/cKvFy2I.png", Discovery Asia
 http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="All" tvg-logo="https://i.imgur.com/Pugn7Ka.png", ANIMAX
@@ -86,26 +86,26 @@ http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cinema_world_hd" group-title="All" tvg-logo="https://i.imgur.com/tfqmF35.png", Cinema World
+#EXTINF:-1 tvg-id="cinema_world_hd" group-title="All" tvg-logo="https://i.imgur.com/tfqmF35.png", CinemaWorld
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="foxhd" group-title="All" tvg-logo="https://i.imgur.com/eMk3Wvh.png", FOX HD
+#EXTINF:-1 tvg-id="foxhd" group-title="All" tvg-logo="https://i.imgur.com/eMk3Wvh.png", FOXHD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="foxmovieshd" group-title="All" tvg-logo="https://i.imgur.com/2p4STXR.png", FOX FAMILY MOVIES
+#EXTINF:0 tvg-id="foxmovieshd" group-title="All" tvg-logo="https://i.imgur.com/2p4STXR.png", FOX family MOVIES
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="fox_movies" group-title="All" tvg-logo="https://i.imgur.com/nigrJLB.png", FOX Movies
+#EXTINF:0 tvg-id="fox_movies" group-title="All" tvg-logo="https://i.imgur.com/nigrJLB.png", FOX MOVIES
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="foxlifehd" tvg-name="FOXlife HD" group-title="All" tvg-logo="https://i.imgur.com/3wMfuz0.png", FOX LIFE
+#EXTINF:0 tvg-id="foxlifehd" tvg-name="FOXlife HD" group-title="All" tvg-logo="https://i.imgur.com/3wMfuz0.png", FOXlife
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="warner_tv_hd" group-title="All" tvg-logo="https://i.imgur.com/UX7gZ3i.png", Warner TV
+#EXTINF:-1 tvg-id="warner_tv_hd" group-title="All" tvg-logo="https://i.imgur.com/UX7gZ3i.png", WarnerTV
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 
@@ -114,7 +114,7 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="davinci" group-title="All" tvg-logo="https://i.imgur.com/OjBeiD7.png" tvg-name="Da Vinci (HD)", Da Vinci Kids
+#EXTINF:-1 tvg-id="davinci" group-title="All" tvg-logo="https://i.imgur.com/OjBeiD7.png" tvg-name="Da Vinci (HD)", Da Vinci
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
@@ -134,7 +134,7 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="outdoor_channel" group-title="All" tvg-logo="https://i.imgur.com/aSpjUud.png", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="fashion_tv" group-title="All" tvg-logo="https://i.imgur.com/8EOTM1M.png", Fashion TV
+#EXTINF:0 tvg-id="fashion_tv" group-title="All" tvg-logo="https://i.imgur.com/8EOTM1M.png", FashionTV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 
 #https://www.googleapis.com/drive/v3/files/1QlW8wMvsdPjs8CvOz9p4w-RrGs2ckfyt?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
