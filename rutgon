@@ -102,6 +102,9 @@ https://livecdn.fptplay.net/hda3/axnhd_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 
+#EXTINF:0 tvg-id="fox_movies" group-title="All" tvg-logo="https://i.ibb.co/ZBgDSh6/Dream-Works-BEARTV.png", DreamWorks
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="HBO" group-title="All" tvg-logo="https://i.imgur.com/wEqQSrc.png", HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
@@ -110,21 +113,21 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 #https://livecdn.fptplay.net/hda2/cinemawork_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="foxhd" group-title="All" tvg-logo="https://i.imgur.com/eMk3Wvh.png", FOXHD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+##EXTINF:-1 tvg-id="foxhd" group-title="All" tvg-logo="https://i.imgur.com/eMk3Wvh.png", FOXHD
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="foxfamilymovieshd" group-title="All" tvg-logo="https://i.imgur.com/2p4STXR.png", FOX family MOVIES
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+##EXTINF:0 tvg-id="foxfamilymovieshd" group-title="All" tvg-logo="https://i.imgur.com/2p4STXR.png", FOX family MOVIES
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="foxmovieshd" group-title="All" tvg-logo="https://i.imgur.com/nigrJLB.png", FOX MOVIES
+##EXTINF:0 tvg-id="foxmovieshd" group-title="All" tvg-logo="https://i.imgur.com/nigrJLB.png", FOX MOVIES
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="foxlifehd" tvg-name="FOXlife HD" group-title="All" tvg-logo="https://i.imgur.com/3wMfuz0.png", FOXlife
+##EXTINF:0 tvg-id="foxlifehd" tvg-name="FOXlife HD" group-title="All" tvg-logo="https://i.imgur.com/3wMfuz0.png", FOXlife
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="warnertvhd" group-title="All" tvg-logo="https://i.imgur.com/UX7gZ3i.png", WarnerTV
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
