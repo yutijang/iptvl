@@ -114,7 +114,7 @@ https://livecdn.fptplay.net/hda3/axnhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="fox_movies" group-title="All" tvg-logo="https://i.ibb.co/ZBgDSh6/Dream-Works-BEARTV.png", DreamWorks
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="HBO" group-title="All" tvg-logo="https://i.imgur.com/wEqQSrc.png", HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="All" tvg-logo="https://i.imgur.com/wEqQSrc.png", HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="All" tvg-logo="https://i.imgur.com/tfqmF35.png", CinemaWorld
