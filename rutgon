@@ -6,6 +6,9 @@ https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist.m3u8
 #http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
 #http://202.43.109.142:1935/THDT/thdttv/chunklist_w359372379.m3u8
 
+#EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/Fm6ZT1J/thdt2-BEARTV.png", Đồng Tháp 2
+http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1048334863.m3u8
+
 #EXTINF:0 tvg-id="antvhd" group-title="All" tvg-logo="https://i.imgur.com/w9Ht0kv.png", ANTV
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
 
@@ -122,6 +125,9 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda2/cinemawork_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="boxhits" group-title="All" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", BOX HITS
+http://gg.gg/beartv-boxhit
 
 ##EXTINF:-1 tvg-id="foxhd" group-title="All" tvg-logo="https://i.imgur.com/eMk3Wvh.png", FOXHD
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
