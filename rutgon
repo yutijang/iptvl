@@ -101,7 +101,8 @@ http://livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="All" tvg-logo="https://i.imgur.com/Pugn7Ka.png", ANIMAX
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="All" tvg-logo="https://i.imgur.com/f4UkTy4.png", Cartoon Network
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="All" tvg-logo="https://i.imgur.com/PKOlWpr.png", BOMMERANG
 http://livecdn.fptplay.net/hda3/boomerang_hls.smil/chunklist_b2500000.m3u8
 #http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
