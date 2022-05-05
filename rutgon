@@ -13,7 +13,7 @@ http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1048334863.m3u8
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="longan" group-title="All" tvg-logo="http://la34.com.vn/wp-content/themes/la34/assets/img/logo.png", Long An
-http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+https://la34.vncdn.vn/live/LA34AAA/chunklist_w462621088.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="All" tvg-logo="https://i.imgur.com/OzskG70.jpg", Vĩnh Long 1
 https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
