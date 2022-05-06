@@ -41,7 +41,7 @@ https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htvcplushd" group-title="All" tvg-logo="https://i.ibb.co/K2tfJM6/HTVCPLUS-BEARTV.png", HTVC Plus
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv7hd" group-title="All" tvg-logo="https://i.imgur.com/ZXIsG1K.png", HTV7
 https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -126,22 +126,6 @@ https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3
 #https://livecdn.fptplay.net/hda2/cinemawork_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 
-##EXTINF:-1 tvg-id="foxhd" group-title="All" tvg-logo="https://i.imgur.com/eMk3Wvh.png", FOXHD
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-
-##EXTINF:0 tvg-id="foxfamilymovieshd" group-title="All" tvg-logo="https://i.imgur.com/2p4STXR.png", FOX family MOVIES
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-
-##EXTINF:0 tvg-id="foxmovieshd" group-title="All" tvg-logo="https://i.imgur.com/nigrJLB.png", FOX MOVIES
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-
-##EXTINF:0 tvg-id="foxlifehd" tvg-name="FOXlife HD" group-title="All" tvg-logo="https://i.imgur.com/3wMfuz0.png", FOXlife
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="warnertvhd" group-title="All" tvg-logo="https://i.imgur.com/UX7gZ3i.png", WarnerTV
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
@@ -173,7 +157,8 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="outdoorhd" group-title="All" tvg-logo="https://i.imgur.com/aSpjUud.png", Outdoor Channel
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="fashionhd" group-title="All" tvg-logo="https://i.imgur.com/8EOTM1M.png", FashionTV
-https://livecdn.fptplay.net/hda2/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda2/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 
 #https://www.googleapis.com/drive/v3/files/1QlW8wMvsdPjs8CvOz9p4w-RrGs2ckfyt?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
