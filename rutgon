@@ -125,10 +125,15 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="boxhits" group-title="All" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", BOX HITS
-https://s.id/beartv-boxhit
+https://s.id/boxhits123
+#https://s.id/beartv-boxhit
 
-#EXTINF:0 tvg-id="inthebox" group-title="All" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", In The Box
-https://s.id/beartv-inthebox
+#EXTINF:0 tvg-id="boxmovie1" group-title="All" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", BOX MOVIE 1
+https://s.id/boxmovie123
+
+#EXTINF:0 tvg-id="inthebox" group-title="All" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png", In The Box
+https://s.id/inthebox123
+#https://s.id/beartv-inthebox
 
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="All" tvg-logo="https://i.imgur.com/tfqmF35.png", CinemaWorld
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
