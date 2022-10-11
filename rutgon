@@ -32,7 +32,8 @@ https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="All" tvg-logo="https://i.imgur.com/yM0uznX.png", HTVC Phim
 #https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/hda2/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="All" tvg-logo="https://i.ibb.co/rZTRD44/FIM360-BEARTV.png", Fim 360 - SCTV6
 https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
@@ -124,17 +125,6 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="hbohd" group-title="All" tvg-logo="https://i.imgur.com/wEqQSrc.png", HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
-##EXTINF:0 tvg-id="boxhits" group-title="All" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", BOX HITS
-#https://s.id/boxhits123
-#https://s.id/beartv-boxhit
-
-##EXTINF:0 tvg-id="boxmovie1" group-title="All" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", BOX MOVIE 1
-#https://s.id/boxmovie123
-
-#EXTINF:-1 tvg-id="inthebox" group-title="All" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", In The Box
-#EXTVLCOPT:http-user-agent="BearTV"
-https://106135605.vws.vegacdn.vn//cliptv_live/amlst:boxhitshd/chunklist_b5128000.m3u8
-
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="All" tvg-logo="https://i.imgur.com/tfqmF35.png", CinemaWorld
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda2/cinemawork_hls.smil/chunklist_b2500000.m3u8
@@ -150,12 +140,6 @@ http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="inthebox" group-title="All" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", In The Box
-#http://vthanhtivi.duckdns.org/inthebox/mpegts
-
-#EXTINF:0 tvg-id="boxhits" group-title="All" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", BOX HITS
-#http://vthanhtivi.duckdns.org/BOX_HITS/mpegts
 
 #EXTINF:0 tvg-id="davinci" group-title="All" tvg-logo="https://i.imgur.com/OjBeiD7.png" tvg-name="Da Vinci (HD)", Da Vinci
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
