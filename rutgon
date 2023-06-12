@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="All" tvg-logo="https://i.imgur.com/KWzVIse.jpg", Đồng Tháp 1
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist.m3u8
@@ -83,45 +83,61 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animalhd" group-title="All" tvg-logo="https://i.imgur.com/Y4C8P6U.png", Animal Planet
-https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
+#https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 #http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-id="planetearthhd" group-title="All" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
+https://code.vthanhtivi.pw/getlink/cliptv/planet-earth-hd/chunklist_b5128000.m3u8
+
 #EXTINF:-1 tvg-id="bbcearth" group-title="All" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg", BBC Earth
-http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+http://sg.tinchuanchuaanh.com:8080/BBC_EARTH_HD/index.m3u8
+#http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="ngchd" group-title="All" tvg-logo="https://i.imgur.com/lsdr38d.png", National Geographic
-https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+http://live.vthanhtivi.pw/natgeo
+#https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
 ##EXTINF:-1 tvg-id="ngwhd" group-title="All" tvg-logo="https://i.imgur.com/pdPzurH.png", Nat Geo WILD
+http://live.vthanhtivi.pw/ngw
 #https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/Ul4OITK.png" group-title="All", Discovery
-https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
+#https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="All" tvg-logo="https://i.imgur.com/cKvFy2I.png", Discovery Asia
-http://livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
+#http://livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="animaxhd" group-title="All" tvg-logo="https://i.imgur.com/Pugn7Ka.png", ANIMAX
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
+http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
+#https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
+
 #EXTINF:-1 tvg-id="cartoonhd" group-title="All" tvg-logo="https://i.imgur.com/f4UkTy4.png", Cartoon Network
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
+#https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="boomerang" group-title="All" tvg-logo="https://i.imgur.com/PKOlWpr.png", BOMMERANG
-http://livecdn.fptplay.net/hda3/boomerang_hls.smil/chunklist_b2500000.m3u8
+http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
+#http://livecdn.fptplay.net/hda3/boomerang_hls.smil/chunklist_b2500000.m3u8
 #http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" group-title="All" tvg-logo="https://i.imgur.com/YPPbDTV.png", AXN
-https://livecdn.fptplay.net/hda3/axnhd_hls.smil/chunklist_b2500000.m3u8
+http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
+#https://livecdn.fptplay.net/hda3/axnhd_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 
-#EXTINF:0 tvg-id="dreamworks" group-title="All" tvg-logo="https://i.ibb.co/ZBgDSh6/Dream-Works-BEARTV.png", DreamWorks
-https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:0 tvg-id="Baby TV HD-ClipTV" group-title="All" tvg-logo="https://i.ibb.co/PYK3X5y/CBeebies-BEARTV.png", Cbeebies
-https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="dreamworks" group-title="All" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/cliptv/?id=dreamworks
+https://106d4d2f4.vws.vegacdn.vn/live_dzones/dreamwork.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="hbohd" group-title="All" tvg-logo="https://i.imgur.com/wEqQSrc.png", HBO
 #http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
@@ -129,32 +145,36 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 http://live.vthanhtivi.pw/hbo
 
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="All" tvg-logo="https://i.imgur.com/tfqmF35.png", CinemaWorld
-https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
+#https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda2/cinemawork_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="cinemaxhd" group-title="All" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png", CINEMAX
+http://live.vthanhtivi.pw/cinemax
 #https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
-https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-0-0.m3u8
+#https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-0-0.m3u8
 
-#EXTINF:0 tvg-id="hollywoodclassics" group-title="All" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png", Hollywood Classics
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="All" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png", Hollywood Classics 720p
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="All" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png", Hollywood Classics 1080p
+https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
+
 #EXTINF:-1 tvg-id="inthebox" group-title="All" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", IN THE BOX
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="All" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png", BOX MOVIE 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
 
 #EXTINF:0 tvg-id="boxhits" group-title="All" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", BOX HITS
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 
 #EXTINF:0 tvg-id="warnertvhd" group-title="All" tvg-logo="https://i.imgur.com/UX7gZ3i.png", WarnerTV
-http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+http://sg.tinchuanchuaanh.com:8080/WARNER_TV_HD/index.m3u8
+#ttp://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
@@ -173,10 +193,12 @@ https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="outdoorhd" group-title="All" tvg-logo="https://i.imgur.com/aSpjUud.png", Outdoor Channel
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="fashionhd" group-title="All" tvg-logo="https://i.imgur.com/8EOTM1M.png", FashionTV
-https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-#https://livecdn.fptplay.net/hda2/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
-#https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="fashionhd" group-title="All" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=595
+https://106d4d2f4.vws.vegacdn.vn/live_dzones/ftv.smil/manifest.mpd
 
 #https://www.googleapis.com/drive/v3/files/1QlW8wMvsdPjs8CvOz9p4w-RrGs2ckfyt?alt=media&key=AIzaSyDDi7T97lbCSL6zU4ZLpj6frMaUqD9J8mY
 
