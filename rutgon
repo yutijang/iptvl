@@ -9,10 +9,10 @@ https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/Fm6ZT1J/thdt2-BEARTV.png", Đồng Tháp 2
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1048334863.m3u8
 
-#EXTINF:0 tvg-id="antvhd" group-title="All" tvg-logo="https://i.imgur.com/w9Ht0kv.png", ANTV
+#EXTINF:-1 tvg-id="antvhd" group-title="All" tvg-logo="https://i.imgur.com/w9Ht0kv.png", ANTV
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
 
-#EXTINF:0 tvg-id="longan" group-title="All" tvg-logo="http://la34.com.vn/wp-content/themes/la34/assets/img/logo.png", Long An
+#EXTINF:-1 tvg-id="longan" group-title="All" tvg-logo="http://la34.com.vn/wp-content/themes/la34/assets/img/logo.png", Long An
 https://la34.vncdn.vn/live/LA34AAA/chunklist_w462621088.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="All" tvg-logo="https://i.imgur.com/OzskG70.jpg", Vĩnh Long 1
@@ -26,6 +26,7 @@ https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="All" tvg-logo="https://i.imgur.com/F79Qtoj.png",Vĩnh Long 3
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="All" tvg-logo="https://i.imgur.com/BNLcSQn.png",Vĩnh Long 4
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
@@ -66,19 +67,19 @@ https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda1/vtv3hd_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtv5hd" group-title="All" tvg-logo="https://i.imgur.com/8CncSsC.png", VTV5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="All" tvg-logo="https://i.imgur.com/8CncSsC.png", VTV5
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="vtv6hd" group-title="All" tvg-logo="https://i.imgur.com/0rhybsQ.png", VTV6
+#EXTINF:-1 tvg-id="vtv6hd" group-title="All" tvg-logo="https://i.imgur.com/0rhybsQ.png", VTV6
 #https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda1/vtv6hd_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 
-#EXTINF:0 tvg-id="vtv9hd" group-title="All" tvg-logo="https://i.imgur.com/KLPtpfC.png", VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="All" tvg-logo="https://i.imgur.com/KLPtpfC.png", VTV9
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 
@@ -139,59 +140,58 @@ http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/cliptv/?id=dreamworks
 https://106d4d2f4.vws.vegacdn.vn/live_dzones/dreamwork.smil/manifest.mpd
 
-#EXTINF:0 tvg-id="hbohd" group-title="All" tvg-logo="https://i.imgur.com/wEqQSrc.png", HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="All" tvg-logo="https://i.imgur.com/wEqQSrc.png", HBO
 #http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-0-0.m3u8
 http://live.vthanhtivi.pw/hbo
 
-#EXTINF:0 tvg-id="cinemaworldhd" group-title="All" tvg-logo="https://i.imgur.com/tfqmF35.png", CinemaWorld
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="All" tvg-logo="https://i.imgur.com/tfqmF35.png", CinemaWorld
 http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
 #https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda2/cinemawork_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="cinemaxhd" group-title="All" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png", CINEMAX
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="All" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png", CINEMAX
 http://live.vthanhtivi.pw/cinemax
 #https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-0-0.m3u8
 
-#EXTINF:0 tvg-id="hollywoodclassics" group-title="All" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png", Hollywood Classics 720p
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="All" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png", Hollywood Classics 720p
 #https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="hollywoodclassics" group-title="All" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png", Hollywood Classics 1080p
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="All" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png", Hollywood Classics 1080p
 https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="All" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", IN THE BOX
 https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 
-#EXTINF:0 tvg-id="boxmovie1" group-title="All" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png", BOX MOVIE 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="All" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png", BOX MOVIE 1
 https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
 
-#EXTINF:0 tvg-id="boxhits" group-title="All" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", BOX HITS
+#EXTINF:-1 tvg-id="boxhits" group-title="All" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", BOX HITS
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 
-#EXTINF:0 tvg-id="warnertvhd" group-title="All" tvg-logo="https://i.imgur.com/UX7gZ3i.png", WarnerTV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="All" tvg-logo="https://i.imgur.com/UX7gZ3i.png", WarnerTV
 http://sg.tinchuanchuaanh.com:8080/WARNER_TV_HD/index.m3u8
 #ttp://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 
-#EXTINF:0 tvg-id="kix" tvg-name="KIX" group-title="All" tvg-logo="https://i.imgur.com/vXqahXq.png", KIX
+#EXTINF:-1 tvg-id="kix" tvg-name="KIX" group-title="All" tvg-logo="https://i.imgur.com/vXqahXq.png", KIX
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="davinci" group-title="All" tvg-logo="https://i.imgur.com/OjBeiD7.png" tvg-name="Da Vinci (HD)", Da Vinci
+#EXTINF:-1 tvg-id="davinci" group-title="All" tvg-logo="https://i.imgur.com/OjBeiD7.png" tvg-name="Da Vinci (HD)", Da Vinci
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="asian_food_channel" group-title="All" tvg-logo="https://i.imgur.com/mRWgehF.png", Asian Food Network
+#EXTINF:-1 tvg-id="asian_food_channel" group-title="All" tvg-logo="https://i.imgur.com/mRWgehF.png", Asian Food Network
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="outdoorhd" group-title="All" tvg-logo="https://i.imgur.com/aSpjUud.png", Outdoor Channel
+#EXTINF:-1 tvg-id="outdoorhd" group-title="All" tvg-logo="https://i.imgur.com/aSpjUud.png", Outdoor Channel
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="All" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
