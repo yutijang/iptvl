@@ -100,7 +100,7 @@ http://sg.tinchuanchuaanh.com:8080/BBC_EARTH_HD/index.m3u8
 http://live.vthanhtivi.pw/natgeo
 #https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
-##EXTINF:-1 tvg-id="ngwhd" group-title="All" tvg-logo="https://i.imgur.com/pdPzurH.png", Nat Geo WILD
+#EXTINF:-1 tvg-id="ngwhd" group-title="All" tvg-logo="https://i.imgur.com/pdPzurH.png", Nat Geo WILD
 http://live.vthanhtivi.pw/ngw
 #https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 
