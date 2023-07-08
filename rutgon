@@ -112,7 +112,7 @@ https://106d4d2f4.vws.vegacdn.vn/live_dzones/dreamwork.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hbohd" group-title="All" tvg-logo="https://i.imgur.com/wEqQSrc.png", HBO
 #http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-0-0.m3u8
-http://live.vthanhtivi.pw/hbo
+http://live.vthanhtivi.pw/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="All" tvg-logo="https://i.imgur.com/tfqmF35.png", CinemaWorld
 http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
