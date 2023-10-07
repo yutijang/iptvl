@@ -75,7 +75,7 @@ https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="animalhd" group-title="All" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png", Animal Planet
-http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
+http://vthanhtivi.pw:5000/animal/index.m3u8
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="All" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg", BBC Earth
 http://6.tcp.us-cal-1.ngrok.io:17801/bbcearth/index.m3u8
