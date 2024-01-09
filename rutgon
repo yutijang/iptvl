@@ -10,10 +10,12 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="All" tvg-logo="https://i.imgur.com/OzskG70.jpg", Vĩnh Long 1
-http://live.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="All" tvg-logo="https://i.imgur.com/tnFqEPz.jpg", Vĩnh Long 2
-http://live.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="All" tvg-logo="https://i.imgur.com/F79Qtoj.png",Vĩnh Long 3
 http://live.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
@@ -81,39 +83,39 @@ https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="animalhd" group-title="All" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png", Animal Planet
-http://vthanhtivi.pw:5000/animal/index.m3u8
+http://fpt.vthanhtivi.pw/animal/index.m3u8
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="All" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg", BBC Earth
-http://6.tcp.us-cal-1.ngrok.io:17801/bbcearth/index.m3u8
+http://fpt.vthanhtivi.pw/bbcearth/index.m3u8
 
 #EXTINF:-1 tvg-id="animaxhd" group-title="All" tvg-logo="https://i.imgur.com/Pugn7Ka.png", ANIMAX
-http://6.tcp.us-cal-1.ngrok.io:17801/animax/index.m3u8
+http://fpt.vthanhtivi.pw/animax/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="All" tvg-logo="https://i.imgur.com/f4UkTy4.png", Cartoon Network
-http://vthanhtivi.pw:5000/cartoon/index.m3u8
+http://fpt.vthanhtivi.pw/cartoon/index.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" group-title="All" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png", AXN HD
-http://vthanhtivi.pw:5000/axn/index.m3u8
+http://fpt.vthanhtivi.pw/axn/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" group-title="All" tvg-logo="https://i.imgur.com/wEqQSrc.png", HBO
-http://vthanhtivi.pw:5000/hbo/index.m3u8
+http://fpt.vthanhtivi.pw/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="All" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png", CINEMAX
-http://vthanhtivi.pw:5000/cinemax/index.m3u8
+http://fpt.vthanhtivi.pw/cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="All" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png", HOLLYWOOD CLASSICS
-#EXTVLCOPT:http-user-agent="BearTV"
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="All" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8|Referer=http://sctvonline.vn
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="All" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", IN THE BOX
-http://vthanhtivi.pw:5000/itb/mpegts
+http://fpt.vthanhtivi.pw/In_The_Box/mpegts
 
 #EXTINF:-1 tvg-id="kix" tvg-name="KIX" group-title="All" tvg-logo="https://i.imgur.com/vXqahXq.png", KIX
-https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
+http://210.210.155.37/dr9445/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="All" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
