@@ -9,20 +9,14 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="All" tvg-logo="http://la34.com.vn/wp-content/themes/la34/assets/img/logo.png", Long An
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="All" tvg-logo="https://i.ibb.co/2MVntS3/THVL1-HD-BEARTV.png",Vĩnh Long 1 HD#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="All" tvg-logo="https://i.ibb.co/LJWVVRp/THVL2-HD-BEARTV.png",Vĩnh Long 2 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" group-title="All" tvg-logo="https://i.ibb.co/Y8XFm4Z/THVL3-HD-BEARTV.png" ,Vĩnh Long 3 HD
-http://live.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
-
-#EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="All" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png" ,Vĩnh Long 4 HD
-http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="All" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
+https://code.vthanhtivi.pw/channel/QUczZTV1VEpFOFYyckVHWFFlNlRuODk3clN1VEdrUVZJVHFMRmpwS2lnYU5aQmk0SzJkYmF5bmFkWlJwcWR2U0V1RXgzdGF5RElScnU2RldPT2VaK3c9PQ==/master.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="All" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
+https://code.vthanhtivi.pw/channel/QUczZTV1VEpFOFYyckVHWFFlNlRuODk3clN1VEdrUVZJVHFMRmpwS2lnYU5aQmk0SzJkYmF5bmFkWlJwcWR2U01KSHR4ZXlOTWIvb2tTR3hyT0FORFE9PQ==/master.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="All" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
+https://code.vthanhtivi.pw/channel/QUczZTV1VEpFOFYyckVHWFFlNlRuODk3clN1VEdrUVZJVHFMRmpwS2lnYU5aQmk0SzJkYmF5bmFkWlJwcWR2U2tPbE1DREZjRDZId3cwQThsQzdmUnc9PQ==/master.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="All" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
+https://code.vthanhtivi.pw/channel/QUczZTV1VEpFOFYyckVHWFFlNlRuODk3clN1VEdrUVZJVHFMRmpwS2lnYU5aQmk0SzJkYmF5bmFkWlJwcWR2U09ibFB1K29rR29adENMUDI3cndRUUE9PQ==/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="All" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Tvb_logo.svg/2560px-Tvb_logo.svg.png", TVB VIỆT NAM
