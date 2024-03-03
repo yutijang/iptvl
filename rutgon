@@ -9,19 +9,21 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="All" tvg-logo="http://la34.com.vn/wp-content/themes/la34/assets/img/logo.png", Long An
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="All" tvg-logo="https://i.imgur.com/OzskG70.jpg", Vĩnh Long 1
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="All" tvg-logo="https://i.ibb.co/2MVntS3/THVL1-HD-BEARTV.png",Vĩnh Long 1 HD#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="All" tvg-logo="https://i.imgur.com/tnFqEPz.jpg", Vĩnh Long 2
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="All" tvg-logo="https://i.ibb.co/LJWVVRp/THVL2-HD-BEARTV.png",Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8
 
-##EXTINF:-1 tvg-id="vinhlong3hd" group-title="All" tvg-logo="https://i.imgur.com/F79Qtoj.png",Vĩnh Long 3
-#http://live.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" group-title="All" tvg-logo="https://i.ibb.co/Y8XFm4Z/THVL3-HD-BEARTV.png" ,Vĩnh Long 3 HD
+http://live.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
 
-##EXTINF:-1 tvg-id="vinhlong4hd" group-title="All" tvg-logo="https://i.imgur.com/BNLcSQn.png",Vĩnh Long 4
-#http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="All" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png" ,Vĩnh Long 4 HD
+http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="All" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Tvb_logo.svg/2560px-Tvb_logo.svg.png", TVB VIỆT NAM
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
