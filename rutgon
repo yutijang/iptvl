@@ -9,14 +9,14 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="All" tvg-logo="http://la34.com.vn/wp-content/themes/la34/assets/img/logo.png", Long An
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="All" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
-https://code.vthanhtivi.pw/channel/QUczZTV1VEpFOFYyckVHWFFlNlRuODk3clN1VEdrUVZJVHFMRmpwS2lnYU5aQmk0SzJkYmF5bmFkWlJwcWR2U0V1RXgzdGF5RElScnU2RldPT2VaK3c9PQ==/master.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="All" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
-https://code.vthanhtivi.pw/channel/QUczZTV1VEpFOFYyckVHWFFlNlRuODk3clN1VEdrUVZJVHFMRmpwS2lnYU5aQmk0SzJkYmF5bmFkWlJwcWR2U01KSHR4ZXlOTWIvb2tTR3hyT0FORFE9PQ==/master.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="All" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
-https://code.vthanhtivi.pw/channel/QUczZTV1VEpFOFYyckVHWFFlNlRuODk3clN1VEdrUVZJVHFMRmpwS2lnYU5aQmk0SzJkYmF5bmFkWlJwcWR2U2tPbE1DREZjRDZId3cwQThsQzdmUnc9PQ==/master.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="All" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
-https://code.vthanhtivi.pw/channel/QUczZTV1VEpFOFYyckVHWFFlNlRuODk3clN1VEdrUVZJVHFMRmpwS2lnYU5aQmk0SzJkYmF5bmFkWlJwcWR2U09ibFB1K29rR29adENMUDI3cndRUUE9PQ==/master.m3u8
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
+https://code.vthanhtivi.pw/channel/SnJ3SFUrSlB3QWR6QnAyQ0YzcjVKcXl2Q1duSG9vbTMxb1FXdzNvZXVhMS9hdHFkc0xiUWp5OXVKRlBULy9pem52WGFaU3VnZ0FrMW9IaE5GenROcFE9PQ==/master.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
+https://code.vthanhtivi.pw/channel/SnJ3SFUrSlB3QWR6QnAyQ0YzcjVKcXl2Q1duSG9vbTMxb1FXdzNvZXVhMS9hdHFkc0xiUWp5OXVKRlBULy9pellVZlI5R2tHOWt5V1FzcUhCelltL1E9PQ==/master.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
+https://code.vthanhtivi.pw/channel/SnJ3SFUrSlB3QWR6QnAyQ0YzcjVKcXl2Q1duSG9vbTMxb1FXdzNvZXVhMS9hdHFkc0xiUWp5OXVKRlBULy9pelhyV0lTWDVYWjVlUmpXa2NwOTZUZFE9PQ==/master.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
+https://code.vthanhtivi.pw/channel/SnJ3SFUrSlB3QWR6QnAyQ0YzcjVKcXl2Q1duSG9vbTMxb1FXdzNvZXVhMS9hdHFkc0xiUWp5OXVKRlBULy9penRtQ2VCMGlkQkVLVVVuc1IyVCtwcWc9PQ==/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="All" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Tvb_logo.svg/2560px-Tvb_logo.svg.png", TVB VIỆT NAM
