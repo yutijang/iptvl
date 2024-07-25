@@ -103,13 +103,6 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8|Referer=http://s
 #EXTVLCOPT:http-user-agent="Bear TV"
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="htv1" group-title="HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
-http://113.160.152.31:5050/rtp/232.84.3.57:11710
-#EXTINF:-1 tvg-id="htv2" group-title="HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
-http://113.160.152.31:5050/rtp/232.84.2.182:9306
-#EXTINF:-1 tvg-id="htv4" group-title="HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
-http://113.160.152.31:5050/rtp/232.84.3.55:11722
-
 #EXTINF:0 tvg-id="vtvcab2hd"group-title="VTVCab" tvg-logo="https://i.ibb.co/zn7tNfS/phim-Viet-BEARTV.png",ON PHIM VIỆT
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/tsBYvZ4/onsports-BEARTV.png" group-title="VTVCab" ,ON SPORTS
